@@ -22,7 +22,7 @@ occupation, phone number and email address.
 ```
 $ pkg update upgrade
 $ pkg install git python2
-$ git clone https://github.com/MuslimCyberArmy-ID/osif
+$ git clone https://github.com/NightlyPsikopat/osif
 $ cd osif
 ```
 
